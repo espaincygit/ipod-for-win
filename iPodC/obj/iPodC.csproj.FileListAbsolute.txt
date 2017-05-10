@@ -1,0 +1,141 @@
+E:\workspace\iPodC\iPodC\bin\Debug\iPodC.exe.config
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.exe
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.pdb
+E:\workspace\iPodC\iPodC\bin\Debug\iPodC.exe
+E:\workspace\iPodC\iPodC\bin\Debug\iPodC.pdb
+E:\workspace\iPodC\iPodC\bin\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC\iPodC\bin\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace\iPodC\iPodC\obj\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.Form1.resources
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.Properties.Resources.resources
+E:\workspace\iPodC\iPodC\obj\Debug\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC\iPodC\bin\Release\iPodC.exe.config
+E:\workspace\iPodC\iPodC\bin\Release\iPodC.exe
+E:\workspace\iPodC\iPodC\bin\Release\iPodC.pdb
+E:\workspace\iPodC\iPodC\bin\Release\Interop.WMPLib.dll
+E:\workspace\iPodC\iPodC\bin\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Release\ResolveAssemblyReference.cache
+E:\workspace\iPodC\iPodC\obj\Release\Interop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.Form1.resources
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.Properties.Resources.resources
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.exe
+E:\workspace\iPodC\iPodC\obj\Release\iPodC.pdb
+E:\workspace\iPodC nano 4\iPodC\bin\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\bin\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodC.Form1.resources
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodC.Properties.Resources.resources
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC nano 4\iPodC\bin\Debug\iPodnano.exe.config
+E:\workspace\iPodC nano 4\iPodC\bin\Debug\iPodnano.exe
+E:\workspace\iPodC nano 4\iPodC\bin\Debug\iPodnano.pdb
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodnano.exe
+E:\workspace\iPodC nano 4\iPodC\obj\Debug\iPodnano.pdb
+E:\workspace\iPodC nano 4\iPodC\bin\Release\iPodnano.exe.config
+E:\workspace\iPodC nano 4\iPodC\bin\Release\iPodnano.exe
+E:\workspace\iPodC nano 4\iPodC\bin\Release\iPodnano.pdb
+E:\workspace\iPodC nano 4\iPodC\bin\Release\Interop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\bin\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Release\ResolveAssemblyReference.cache
+E:\workspace\iPodC nano 4\iPodC\obj\Release\Interop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodC.Form1.resources
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodC.Properties.Resources.resources
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodnano.exe
+E:\workspace\iPodC nano 4\iPodC\obj\Release\iPodnano.pdb
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Release\iPodnano.exe.config
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Release\iPodnano.exe
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Release\iPodnano.pdb
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Debug\iPodnano.exe.config
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Debug\iPodnano.exe
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Debug\iPodnano.pdb
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Debug\Interop.WMPLib.dll
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\bin\Debug\AxInterop.WMPLib.dll
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\Interop.WMPLib.dll
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\AxInterop.WMPLib.dll
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodC.csproj.ResolveComReference.cache
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodC.Form1.resources
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodC.Properties.Resources.resources
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodC.csproj.GenerateResource.Cache
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodnano.exe
+D:\temp\iPodC nano 4\iPodC nano 4\iPodC\obj\Debug\iPodnano.pdb
+E:\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.exe.config
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodnano.exe
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodnano.pdb
+E:\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.exe.config
+E:\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.exe
+E:\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.pdb
+E:\workspace\iPodC nano 5\iPodC\bin\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\bin\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\ResolveAssemblyReference.cache
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\Interop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.Form1.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.Properties.Resources.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodnano.exe
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodnano.pdb
+E:\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.exe
+E:\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.pdb
+E:\workspace\iPodC nano 5\iPodC\bin\Release\Interop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\bin\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Release\ResolveAssemblyReference.cache
+E:\workspace\iPodC nano 5\iPodC\obj\Release\Interop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Release\AxInterop.WMPLib.dll
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.csproj.ResolveComReference.cache
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.Form1.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.Properties.Resources.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.csproj.GenerateResource.Cache
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormAddLyrics.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormAddLyrics.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormShowLyrics.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormShowLyrics.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormSelectLyrics.resources
+E:\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormSelectLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.exe.config
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodnano.exe
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodnano.pdb
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.exe.config
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.exe
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Debug\iPodnano.pdb
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Debug\Interop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Debug\AxInterop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\ResolveAssemblyReference.cache
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\Interop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\AxInterop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.csproj.ResolveComReference.cache
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.Form1.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormAddLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormSelectLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.FormShowLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.Properties.Resources.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodC.csproj.GenerateResource.Cache
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodnano.exe
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Debug\iPodnano.pdb
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.exe
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Release\iPodnano.pdb
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Release\Interop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\bin\Release\AxInterop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\ResolveAssemblyReference.cache
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\Interop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\AxInterop.WMPLib.dll
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.csproj.ResolveComReference.cache
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.Form1.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormAddLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormSelectLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.FormShowLyrics.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.Properties.Resources.resources
+C:\MyFile\MyData\workspace\iPodC nano 5\iPodC\obj\Release\iPodC.csproj.GenerateResource.Cache

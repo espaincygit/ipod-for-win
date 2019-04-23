@@ -1,2 +1,2 @@
 # ipod-for-win
-a winform ipod with an awesome look
+a winform ipod with awesome look
